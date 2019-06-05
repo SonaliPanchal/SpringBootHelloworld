@@ -31,4 +31,12 @@ public class Springjava4sController {
 		
 		
 	}
+	@RequestMapping("/Hello")
+	public String sayHello()
+	{
+		
+		return "Welcome to spring boot Application";
+		
+		
+	}
 }
