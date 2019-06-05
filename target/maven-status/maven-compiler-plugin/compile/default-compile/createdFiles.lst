@@ -1,0 +1,4 @@
+com\java4s\app\controller\Springjava4sController.class
+com\java4s\app\model\Customer.class
+com\java4s\app\SpringBootApp.class
+com\java4s\app\repository\SpringJava4sDAO.class
